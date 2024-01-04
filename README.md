@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Phung Tien Dat  
+* Student Name: Phung Tien Dat!  
 * Student ID: 22BI13081
 
